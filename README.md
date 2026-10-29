@@ -62,7 +62,7 @@ Todos los equipos usan **`admin` / `admin`**.
 | R-ISP | - | `admin` (enable) | Solo consola de GNS3 |
 | R-EDGE | - | `admin` (enable) | Solo consola de GNS3 |
 | R-LAN | `admin` | `admin` (también enable) | Consola, o SSH desde la VLAN 20 |
-| FGT-01 | `admin` | `admin` | Consola, o GUI/SSH desde la VLAN 20 (10.50.1.49) |
+| FGT-01 | `admin` | `Fortinet.2026` | Consola, o GUI/SSH desde la VLAN 20 (10.50.1.49) |
 
 En la primera entrada, el FortiGate pide cambiar la contraseña. Si la versión no acepta `admin`, anoten aquí cuál usaron para que todo el grupo use la misma.
 
